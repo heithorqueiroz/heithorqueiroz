@@ -1,7 +1,6 @@
 - Hi, I’m @heithorqueiroz
-- I'm studing PhD in Remote Sensing
-- I’m interested in GISsciense
-- I’m currently learning Python
+- PhD student in Remote Sensing
+- Currently learning Python
 - I’m looking to collaborate on image processing
 - 📫 How to reach me heithorqueiroz@gmail.com
 
