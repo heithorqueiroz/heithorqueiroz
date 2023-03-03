@@ -1,5 +1,6 @@
 - Hi, I’m @heithorqueiroz
 - PhD student in Remote Sensing (INPE/Brazil)
+- Professor on Geoinformatics (IF Baiano/Brazil)
 - 📫 How to reach me heithorqueiroz@gmail.com
 
 <!---
