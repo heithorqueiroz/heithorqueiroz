@@ -1,7 +1,5 @@
 - Hi, I’m @heithorqueiroz
-- PhD student in Remote Sensing
-- Currently learning Python
-- I’m looking to collaborate on image processing
+- PhD student in Remote Sensing (INPE/Brazil)
 - 📫 How to reach me heithorqueiroz@gmail.com
 
 <!---
